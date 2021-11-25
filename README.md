@@ -34,5 +34,7 @@
 [1]:https://www.github.com "GitHub官方网站"
 [2]:https://www.git-scm.com/downloads "Git下载入口"
 
+测试图片
 
+![测试图片.JPG](https://i.loli.net/2021/11/25/zdg2Pylmqf3V7rI.jpg:)
 
