@@ -36,5 +36,5 @@
 
 测试图片
 
-![测试图片.jpg](https://i.loli.net/2021/11/25/zdg2Pylmqf3V7rI.jpg:)
+![测试图片.jpg](https://i.loli.net/2021/11/25/zdg2Pylmqf3V7rI.jpg)
 
